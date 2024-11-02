@@ -1,0 +1,10 @@
+Mohon maaf
+jika berat membuka excel euler, buka euler versi ringan
+
+
+mengapa?
+
+
+karena di euler versi non ringan, iterasi dihitung seluruhnya sehingga terdapat 628k row dari etiap iterasi yang membuat file excel sangat besar dan berat
+
+di euler versi ringan saya tidak menghitung seluruhnya untuk h=0,00001, tapi saya masukkan plot grafik berasal dari excel versi non ringan dimana saya hitung seluruhnya. sehingga pada hakekatnya ama saja
