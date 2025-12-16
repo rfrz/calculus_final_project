@@ -1,4 +1,4 @@
-# 🧮 Calculus & Numerical Analysis Final Project
+# 🧮 Calculus Final Project
 
 Repository ini berisi kumpulan implementasi berbagai algoritma sebagai Tugas Akhir mata kuliah Kalkulus. Proyek ini berfokus pada simulasi, prediksi, dan pengelompokan data menggunakan Python, dengan validasi perhitungan manual menggunakan Microsoft Excel.
 
